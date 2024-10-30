@@ -1,4 +1,9 @@
 [![Typing SVG](<https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&pause=1000&color=00FF00&width=435&separator=%3C&lines=console.log('Ol%C3%A1!');>)](https://git.io/typing-svg)
+---
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-black?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-cenci/)](https://www.linkedin.com/in/eduardo-cenci/)
+[![Gmail Badge](https://img.shields.io/badge/-eduardocenci31@gmail.com-black?style=flat&logo=Gmail&logoColor=white&link=mailto:eduardocenci31@gmail.com)](mailto:eduardocenci31@gmail.com)
+---
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="32" alt="HTML" />
